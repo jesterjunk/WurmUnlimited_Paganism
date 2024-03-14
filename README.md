@@ -1,4 +1,4 @@
-# Wurm Unlimited Paganism
+# Wurm Unlimited - Paganism
 Information for the Paganism Wurm Unlimited server.
 
 ### Voting page
