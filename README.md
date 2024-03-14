@@ -17,3 +17,7 @@ Registered since:  March 10th, 2024 08:00 AM EST
 
 ### Map
 https://redirect.pingperfecthosting.com/5771935/mapviewer/
+
+
+### Discord
+https://discord.gg/Um2ZDEJw
