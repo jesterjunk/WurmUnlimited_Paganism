@@ -1,8 +1,19 @@
 # Wurm Unlimited - Paganism
 Information for the Paganism Wurm Unlimited server.
 
+
+<br>
+
+
+https://jesterjunk.github.io/WurmUnlimited_Paganism/
+
+
+<br>
+
+
 ### Voting page
 https://wurm-unlimited.com/server/12583/
+
 
 ### Information acquired from Voting page:
 ```
@@ -15,8 +26,13 @@ https://wurm-unlimited.com/server/12583/
 Registered since:  March 10th, 2024 08:00 AM EST
 ```
 
-### Map
+
+### Map primary
 https://redirect.pingperfecthosting.com/5771935/mapviewer/
+
+
+### Map mirror
+https://jesterjunk.github.io/WurmUnlimited_Paganism/map/
 
 
 ### Discord
