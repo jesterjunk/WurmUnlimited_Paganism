@@ -6,7 +6,7 @@
     <title>Wurm Unlimited - Paganism</title>
     <style>
     body {
-        margin: 20px;
+        margin: 0;
         color: hsl(60, 30%, 96%);
         font-family: Arial, Helvetica, sans-serif;
     }
@@ -19,25 +19,71 @@
     a:active {color: hsl(40, 93%, 51%);}
     /*  URLS  */
 
+    div#main_container {
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+
+        align-items: center;
+    }
+    div#inner_container {
+        border: 2px solid #000000;
+    }
+
+    h3 {
+
+        text-align: center;
+    }
     #WurmUnlimited_Paganism_logo {
         background: #FFF;
     }
+    table {
+        border-collapse: collapse;
+    }
+    th {
+        padding-right: 20px;
+    }
     td {
-        padding: 11px;
+        padding-top: 8px;
+        padding-bottom: 8px;
     }
     #map_name {
         text-align: left;
+/*        padding-right: 20px;*/
     }
     #map_img {
-        border: 1px solid rebeccapurple;
+        display: block;
+        font-size: 0;
+        border: 2px solid #000000;
+    }
+
+    span#primary,
+    span#secondary {
+        display: inline-block;
+        text-align: right;
+        padding-right: 16px;
+        width: 66px;
+        font-weight: normal;
+        font-style: italic;
+        font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+        color: #FFFFFFAA;
+    }
+    span.spacing_01 {
+        display: inline-block;
+        height: 5px;
+    }
+    span.spacing_01 {
+        display: inline-block;
+        width: 82px;
     }
     </style>
 </head>
 <body>
 
+<div id="main_container">
+<div id="inner_container">
 
-<br><br><br>
-<h3 align="center"><br><br><br><img id="WurmUnlimited_Paganism_logo" width="192px" src="WurmUnlimited_Paganism_logo.svg"><br><br><br>Wurm Unlimited — Paganism</h3>
+<h3><img id="WurmUnlimited_Paganism_logo" width="88px" src="img/WurmUnlimited_Paganism_logo.svg" title="img/WurmUnlimited_Paganism_logo.svg"><br><span class="spacing_00"></span><br>Wurm Unlimited — Paganism</h3>
 
 <table align="center">
     <tr>
@@ -90,13 +136,54 @@
     </tr>
     <tr>
         <th align="right">
+            Vote Site
+        </th>
+        <td colspan="2">
+            <a href="https://wurm-unlimited.com/server/12583/" title="https://wurm-unlimited.com/server/12583/" target="_blank">wurm-unlimited.com/server/12583/</a>
+        </td>
+    </tr>
+    <tr>
+        <th align="right">
+            Discord Invite
+        </th>
+        <td colspan="2">
+            <a href="https://discord.gg/Um2ZDEJw" title="https://discord.gg/Um2ZDEJw" target="_blank">discord.gg/Um2ZDEJw</a>
+        </td>
+    </tr>
+    <tr>
+        <th align="right" rowspan="2">
+            Livemap
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+        </th>
+        <td colspan="2">
+            <span id="primary">primary:</span><a href="https://redirect.pingperfecthosting.com/5771935/mapviewer/" title="https://redirect.pingperfecthosting.com/5771935/mapviewer/" target="_blank">https://redirect.pingperfecthosting.com/5771935/mapviewer/</a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <span id="secondary">mirror:</span><a href="https://jesterjunk.github.io/WurmUnlimited_Paganism/map/" title="https://redirect.pingperfecthosting.com/5771935/mapviewer/" target="_blank">https://jesterjunk.github.io/WurmUnlimited_Paganism/map/</a>
+            <br>
+            <br>
+            <span class="spacing_01"></span><i>the mirror is manually updated by <b>jesterjunk</b> and will</i>
+            <br>
+            <span class="spacing_01"></span><i>not always be as up to date as the primary Livemap</i>
+            <br>
+            <br>
+        </td>
+    </tr>
+    <tr>
+        <th align="right">
             Map
         </th>
         <td id="map_name" align="right">
-            Ocrea
+            <!-- 4096x4096 -->
         </td>
         <td align="center">
-            <a href="img/WurmUnlimited_Paganism_map.png" title="img/WurmUnlimited_Paganism_map.png"><img id="map_img" width="600px" height="600px" src="img/WurmUnlimited_Paganism_map.png" title="img/WurmUnlimited_Paganism_map.png"></a>
+            <a href="img/WurmUnlimited_Paganism_map_4096x4096.png" title="img/WurmUnlimited_Paganism_map_4096x4096.png" target="_blank"><img id="map_img" width="512px" height="512px" src="img/WurmUnlimited_Paganism_map_600x600.png" title="img/WurmUnlimited_Paganism_map_600x600.png"></a>
         </td>
     </tr>
 <!--    <tr>
@@ -138,37 +225,15 @@
         <td colspan="2">
             ----
         </td>
-    </tr>
-    <tr>
-        <th align="right">
-            ----
-        </th>
-        <td colspan="2">
-            ----
-        </td>
     </tr>-->
     <tr>
-        <th align="right">
-            Vote Site
-        </th>
-        <td colspan="2">
-            <a href="https://wurm-unlimited.com/server/12583/" title="https://wurm-unlimited.com/server/12583/">wurm-unlimited.com/server/12583/</a>
-        </td>
-    </tr>
-    <tr>
-        <th align="right">
-            Discord Invite
-        </th>
-        <td colspan="2">
-            <a href="https://discord.gg/Um2ZDEJw" title="https://discord.gg/Um2ZDEJw">discord.gg/Um2ZDEJw</a>
-        </td>
-    </tr>
-    <tr>
         <th align="right">Mods</th>
-        <td colspan="2"></td>
+        <td colspan="2">----</td>
     </tr>
 </table>
 
+</div>
+</div>
 
 </body>
 </html>
