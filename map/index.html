@@ -53,16 +53,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
         <script>
 
-        // Function to extract the desired part from the URL
-        function extractWord(url) {
-            // Create a URL object
-            const urlObj = new URL(url);
-            // Split the hostname by '.' and take the first part
-            const parts = urlObj.hostname.split('.');
-            return parts[0];
-        }
-
-        var github_username = extractWord(window.location.href);
+        var github_username = window.location.href.match(/\/\/(\w+)/)[1];
 
         var github_corner = document.querySelector(`.github-corner`);
             github_corner.setAttribute(`href`, `https://github.com/${github_username}/WurmUnlimited_Paganism`);
