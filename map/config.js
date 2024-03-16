@@ -35,4 +35,4 @@ deeds.push(new Deed('Facesitopolis', 2297, 1089, 13, false, 2277, 1069, 2317, 11
 deeds.push(new Deed('Hog Hole', 889, 195, 156, false, 864, 170, 914, 220));
 deeds.push(new Deed('Brighid\'s Fire', 3893, 1074, 68, false, 3843, 1024, 3943, 1124));
 deeds.push(new Deed('Donkland', 3698, 1152, 765, false, 3678, 1132, 3718, 1172));
-deeds.push(new Deed('Magnuss Home', 2239, 1603, 206, false, 2219, 1583, 2254, 1623));
+deeds.push(new Deed('Magnuss Home', 2239, 1603, 204, false, 2219, 1583, 2254, 1623));

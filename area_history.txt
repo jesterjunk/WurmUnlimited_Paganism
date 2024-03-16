@@ -1,43 +1,45 @@
-╭───────────────────────────────────────────────────────────────────────────────────╮
-│                                                                                   │
-│  Wurm Unlimited Paganism                          This file is manually updated.  │
-│                                                                                   │
-├───────────────────────────────────────────────────────────────────────────────────┤
-│  Area History                                                                     │
-├────────────────┬───────────────┬─────────────────┬─────────────┬──────────────────┤
-│          date  │         time  │  player         │  action     │  deed name       │
-├────────────────┼───────────────┼─────────────────┼─────────────┼──────────────────┤
-│                │               │                 │             │                  │
-│  Mar 15, 2024  │   8:55:20 AM  │  Alayena        │  disbanded  │  New Hope        │
-│  Mar 15, 2024  │   6:50:06 AM  │  Magnuss        │  founded    │  Magnuss Home    │
-│  Mar 14, 2024  │   2:04:21 PM  │  Donk           │  founded    │  Donkland        │
-│  Mar 14, 2024  │   2:43:43 AM  │  Brighid        │  founded    │  Brighid's Fire  │
-│  Mar 14, 2024  │   2:33:34 AM  │  Warthog        │  founded    │  Hog Hole        │
-│  Mar 14, 2024  │  12:06:21 AM  │  Jadetheebratt  │  founded    │  Facesitopolis   │
-│  Mar 13, 2024  │  11:41:22 PM  │  Charibdis      │  founded    │  G N T           │
-│  Mar 13, 2024  │   4:55:12 PM  │  Solmark        │  founded    │  Isle Of Hope    │
-│  Mar 13, 2024  │  11:56:55 AM  │  Robskull       │  founded    │  Skullcove       │
-│  Mar 13, 2024  │  10:17:55 AM  │  Alayena        │  founded    │  New Hope        │
-│  Mar 13, 2024  │   5:19:09 AM  │  Eldros         │  founded    │  Nornheim        │
-│  Mar 12, 2024  │   7:27:54 PM  │  Tacgnol        │  founded    │  Tac's New Town  │
-│  Mar 12, 2024  │   7:18:50 PM  │  Tacgnol        │  disbanded  │  Tac Town        │
-│  Mar 12, 2024  │   4:06:40 PM  │  Jesterjunk     │  founded    │  Squadoosh       │
-│  Mar 12, 2024  │   2:06:37 PM  │  Terst          │  founded    │  Murkwell        │
-│  Mar 11, 2024  │  10:00:39 PM  │  Cooter         │  founded    │  Savannah        │
-│  Mar 11, 2024  │   9:17:07 PM  │  Tacgnol        │  founded    │  Tac Town        │
-│  Mar 11, 2024  │   8:48:48 PM  │  Bluecrust      │  founded    │  Blue Oasis      │
-│  Mar 10, 2024  │  10:54:49 PM  │  Cootergm       │  founded    │  Infidelis       │
-│  Mar 10, 2024  │  10:53:34 PM  │  Cootergm       │  disbanded  │  Infidelis       │
-│  Mar 10, 2024  │  10:49:15 PM  │  Cootergm       │  disbanded  │  Blue Oasis      │
-│  Mar 10, 2024  │  10:41:27 PM  │  Cootergm       │  founded    │  Infidelis       │
-│  Mar 10, 2024  │  10:39:27 PM  │  Cootergm       │  disbanded  │  Infidelis       │
-│  Mar 10, 2024  │  10:00:54 PM  │  Blueskullz     │  founded    │  Blue Oasis      │
-│  Mar 10, 2024  │   9:12:01 PM  │  Cootergm       │  founded    │  Infidelis       │
-│  Mar 10, 2024  │   9:09:37 PM  │  Cootergm       │  disbanded  │  Infidelis       │
-│  Mar 10, 2024  │   8:44:51 PM  │  Cootergm       │  founded    │  Infidelis       │
-│  Mar 10, 2024  │   8:41:40 PM  │  Cootergm       │  disbanded  │  Infidelis       │
-│  Mar 10, 2024  │   7:06:15 PM  │  Cootergm       │  founded    │  Infidelis       │
-│  Mar 10, 2024  │   6:58:17 PM  │  Cootergm       │  disbanded  │  Infidelis       │
-│  Mar 10, 2024  │   6:35:31 PM  │  Cootergm       │  founded    │  Infidelis       │
-│                │               │                 │             │                  │
-╰────────────────┴───────────────┴─────────────────┴─────────────┴──────────────────╯
+╭────────────────────────────────────────────────────────────────────────────────────────╮
+│                                                                                        │
+│  Wurm Unlimited Paganism                          This file is manually updated.       │
+│                                                                                        │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│  Area History                                                                          │
+├────────────────┬───────────────┬─────────────────┬─────────────┬───────────────────────┤
+│          date  │         time  │  player         │  action     │  deed name            │
+├────────────────┼───────────────┼─────────────────┼─────────────┼───────────────────────┤
+│                │               │                 │             │                       │
+│  Mar 16, 2024  │   2:08:32 PM  │  Amberlight     │  founded    │  Celestine            │
+│  Mar 16, 2024  │  12:46:01 PM  │  Alterego       │  founded    │  Black Hand Sanctuary │
+│  Mar 15, 2024  │   8:55:20 AM  │  Alayena        │  disbanded  │  New Hope             │
+│  Mar 15, 2024  │   6:50:06 AM  │  Magnuss        │  founded    │  Magnuss Home         │
+│  Mar 14, 2024  │   2:04:21 PM  │  Donk           │  founded    │  Donkland             │
+│  Mar 14, 2024  │   2:43:43 AM  │  Brighid        │  founded    │  Brighid's Fire       │
+│  Mar 14, 2024  │   2:33:34 AM  │  Warthog        │  founded    │  Hog Hole             │
+│  Mar 14, 2024  │  12:06:21 AM  │  Jadetheebratt  │  founded    │  Facesitopolis        │
+│  Mar 13, 2024  │  11:41:22 PM  │  Charibdis      │  founded    │  G N T                │
+│  Mar 13, 2024  │   4:55:12 PM  │  Solmark        │  founded    │  Isle Of Hope         │
+│  Mar 13, 2024  │  11:56:55 AM  │  Robskull       │  founded    │  Skullcove            │
+│  Mar 13, 2024  │  10:17:55 AM  │  Alayena        │  founded    │  New Hope             │
+│  Mar 13, 2024  │   5:19:09 AM  │  Eldros         │  founded    │  Nornheim             │
+│  Mar 12, 2024  │   7:27:54 PM  │  Tacgnol        │  founded    │  Tac's New Town       │
+│  Mar 12, 2024  │   7:18:50 PM  │  Tacgnol        │  disbanded  │  Tac Town             │
+│  Mar 12, 2024  │   4:06:40 PM  │  Jesterjunk     │  founded    │  Squadoosh            │
+│  Mar 12, 2024  │   2:06:37 PM  │  Terst          │  founded    │  Murkwell             │
+│  Mar 11, 2024  │  10:00:39 PM  │  Cooter         │  founded    │  Savannah             │
+│  Mar 11, 2024  │   9:17:07 PM  │  Tacgnol        │  founded    │  Tac Town             │
+│  Mar 11, 2024  │   8:48:48 PM  │  Bluecrust      │  founded    │  Blue Oasis           │
+│  Mar 10, 2024  │  10:54:49 PM  │  Cootergm       │  founded    │  Infidelis            │
+│  Mar 10, 2024  │  10:53:34 PM  │  Cootergm       │  disbanded  │  Infidelis            │
+│  Mar 10, 2024  │  10:49:15 PM  │  Cootergm       │  disbanded  │  Blue Oasis           │
+│  Mar 10, 2024  │  10:41:27 PM  │  Cootergm       │  founded    │  Infidelis            │
+│  Mar 10, 2024  │  10:39:27 PM  │  Cootergm       │  disbanded  │  Infidelis            │
+│  Mar 10, 2024  │  10:00:54 PM  │  Blueskullz     │  founded    │  Blue Oasis           │
+│  Mar 10, 2024  │   9:12:01 PM  │  Cootergm       │  founded    │  Infidelis            │
+│  Mar 10, 2024  │   9:09:37 PM  │  Cootergm       │  disbanded  │  Infidelis            │
+│  Mar 10, 2024  │   8:44:51 PM  │  Cootergm       │  founded    │  Infidelis            │
+│  Mar 10, 2024  │   8:41:40 PM  │  Cootergm       │  disbanded  │  Infidelis            │
+│  Mar 10, 2024  │   7:06:15 PM  │  Cootergm       │  founded    │  Infidelis            │
+│  Mar 10, 2024  │   6:58:17 PM  │  Cootergm       │  disbanded  │  Infidelis            │
+│  Mar 10, 2024  │   6:35:31 PM  │  Cootergm       │  founded    │  Infidelis            │
+│                │               │                 │             │                       │
+╰────────────────┴───────────────┴─────────────────┴─────────────┴───────────────────────╯
