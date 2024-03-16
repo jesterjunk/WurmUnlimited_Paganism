@@ -60,7 +60,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         var github_username = window.location.href.match(/\/\/(\w+)/)[1];
 
         var github_corner = document.getElementById(`github-corner`);
-            github_corner.setAttribute("href", "https://github.com/${github_username}/WurmUnlimited_Paganism");
+            github_corner.href = `https://github.com/${github_username}/WurmUnlimited_Paganism`;
 
         fetch(`https://api.github.com/repos/${github_username}/WurmUnlimited_Paganism/commits`)
             .then(res => res.json())
