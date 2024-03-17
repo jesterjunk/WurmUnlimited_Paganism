@@ -38,3 +38,4 @@ deeds.push(new Deed('Donkland', 3698, 1152, 765, false, 3678, 1132, 3718, 1172))
 deeds.push(new Deed('Magnuss Home', 2239, 1603, 205, false, 2234, 1593, 2254, 1623));
 deeds.push(new Deed('Black Hand Sanctuary', 1510, 1586, 34, false, 1490, 1566, 1530, 1606));
 deeds.push(new Deed('Celestine', 2054, 1163, 18, false, 2044, 1153, 2064, 1173));
+deeds.push(new Deed('Nady', 2476, 1286, 13, false, 2461, 1266, 2486, 1306));
