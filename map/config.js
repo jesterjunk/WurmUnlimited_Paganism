@@ -25,7 +25,7 @@ deeds.push(new Deed('Infidelis', 2281, 1433, 13, true, 2256, 1408, 2306, 1458));
 deeds.push(new Deed('Blue Oasis', 2068, 985, 13, false, 2048, 965, 2088, 1005));
 deeds.push(new Deed('Savannah', 1859, 931, 13, false, 1839, 891, 1889, 951));
 deeds.push(new Deed('Murkwell', 2484, 1218, 12, false, 2459, 1213, 2514, 1238));
-deeds.push(new Deed('Squadoosh', 2036, 1398, 455, false, 2011, 1373, 2061, 1423));
+deeds.push(new Deed('Squadoosh', 2036, 1398, 443, false, 2011, 1373, 2061, 1423));
 deeds.push(new Deed('Tac\'s New Town', 2491, 1176, 13, false, 2471, 1156, 2511, 1196));
 deeds.push(new Deed('Nornheim', 1923, 1152, 9, false, 1913, 1142, 1933, 1162));
 deeds.push(new Deed('Skullcove', 2487, 890, 13, false, 2476, 879, 2498, 901));
@@ -39,5 +39,5 @@ deeds.push(new Deed('Magnuss Home', 2239, 1603, 205, false, 2234, 1593, 2254, 16
 deeds.push(new Deed('Black Hand Sanctuary', 1510, 1586, 34, false, 1490, 1566, 1530, 1606));
 deeds.push(new Deed('Celestine', 2054, 1163, 18, false, 2044, 1153, 2064, 1173));
 deeds.push(new Deed('Nady', 2476, 1286, 13, false, 2461, 1266, 2486, 1306));
-deeds.push(new Deed('Public Mine', 2209, 1464, 64, false, 2194, 1449, 2224, 1479));
+deeds.push(new Deed('Public Mine', 2209, 1464, 74, false, 2194, 1449, 2224, 1479));
 deeds.push(new Deed('Rl\'yeh', 3655, 345, 251, false, 3630, 315, 3680, 365));
