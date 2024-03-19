@@ -23,15 +23,21 @@
         margin: 0 auto;
         display: flex;
         flex-direction: column;
-
         align-items: center;
     }
-    h3 {
-
-        text-align: center;
+    tr#logo_and_header_text th {
+        padding-top: 11px;
+        padding-bottom: 22px;
     }
-    #WurmUnlimited_Paganism_logo {
+    tr#logo_and_header_text th img#WurmUnlimited_Paganism_logo {
+        display: block;
         background: #FFF;
+        width: calc(66px * 1.5);
+    }
+    tr#logo_and_header_text th h3 {
+        margin: 0;
+        width: 100%;
+        text-align: left;
     }
     table {
         border-collapse: collapse;
@@ -91,9 +97,14 @@
 <div id="main_container">
 <div id="inner_container">
 
-<h3><img id="WurmUnlimited_Paganism_logo" width="88px" src="img/WurmUnlimited_Paganism_logo.svg" title="img/WurmUnlimited_Paganism_logo.svg"><br><span class="spacing_00"></span><br>Wurm Unlimited — Paganism</h3>
-
 <table align="center">
+    <tr id="logo_and_header_text">
+        <th align="right"><img id="WurmUnlimited_Paganism_logo" src="img/WurmUnlimited_Paganism_logo.svg" title="img/WurmUnlimited_Paganism_logo.svg"></th>
+        <th>
+            <!-- <div><img id="WurmUnlimited_Paganism_logo" width="88px" src="img/WurmUnlimited_Paganism_logo.svg" title="img/WurmUnlimited_Paganism_logo.svg"></div> -->
+            <h3>Wurm Unlimited<br><br>Paganism</h3>
+        </th>
+    </tr>
     <tr>
         <th align="right">
             Address
