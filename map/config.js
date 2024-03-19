@@ -31,7 +31,7 @@ deeds.push(new Deed('Nornheim', 1923, 1152, 9, false, 1913, 1142, 1933, 1162));
 deeds.push(new Deed('Skullcove', 2487, 890, 13, false, 2476, 879, 2498, 901));
 deeds.push(new Deed('Isle Of Hope', 2341, 1512, 60, false, 2321, 1492, 2361, 1532));
 deeds.push(new Deed('G N T', 2613, 761, 11, false, 2593, 741, 2653, 801));
-deeds.push(new Deed('Facesitopolis', 2297, 1089, 13, false, 2277, 1069, 2317, 1109));
+deeds.push(new Deed('Facesitopolis', 2297, 1089, 12, false, 2277, 1069, 2317, 1109));
 deeds.push(new Deed('Hog Hole', 889, 195, 156, false, 864, 170, 914, 220));
 deeds.push(new Deed('Brighid\'s Fire', 3893, 1074, 68, false, 3843, 1024, 3943, 1124));
 deeds.push(new Deed('Donkland', 3698, 1152, 765, false, 3678, 1132, 3718, 1172));
