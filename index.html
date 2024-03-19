@@ -212,46 +212,14 @@
             <a href="img/WurmUnlimited_Paganism_Tanglewood_map_4096x4096.png" title="img/WurmUnlimited_Paganism_Tanglewood_map_4096x4096.png" target="_blank"><img id="map_img" width="512px" height="512px" src="img/WurmUnlimited_Paganism_Tanglewood_map_512x512.png" title="img/WurmUnlimited_Paganism_Tanglewood_map_512x512.png"></a>
         </td>
     </tr>
+
+    <script>
+
+    </script>
+
     <tr id="mod_list">
         <th align="right">Mods</th>
-        <td>
-<pre>actiondemo             inbreedwarning
-AddKingdomItems        leadmore
-AddMissionItems        LocationCommand
-announcer              logs
-archeotweaks           MarkAndRecall
-Armoury                meditatemod
-AshProduce             milkreset
-bagofholding           minipets
-betterdig              morecraftables
-betterfarm             MorePotables
-bindmod                movemod
-bountymod              movetocenter
-BountyOnBurn           nobuildlimit
-bulkmod                NoHolyGround
-bulkseparated          NoMailCost
-chestclaim             onetilemining
-christmasmod           phobiamod
-combiner               PickMoreSprouts
-creatureagemod         sacrificemod
-creaturemod            salvemod
-cropmod                scriptrunner
-DisableFogSpiders      serverfixes
-DiscordRelay           servermap
-DoubleBulkCapacity     serverpacks
-EnhancedChickenCoop    serverplayercounter
-EpicMissionHints       ServerTimeCommand
-FireBurnTime           setheight
-fixguards              SimpleConcrete
-gmcommands             SinduskLibrary
-GuardAssist            Spellcraft
-harvesthelper          spellmod
-hitchingpost           StarterGear
-hitchlimits            TabardMod
-hotsfixes              taxidermy
-httpserver             timerfix
-hwportals              TreasureHunting</pre>
-        </td>
+        <td><pre></pre></td><!-- This is filled by JavaScript using the formatTwoColumns() function-->
     </tr>
 
 
@@ -286,6 +254,104 @@ hwportals              TreasureHunting</pre>
 
 
 <script>
+
+function formatTwoColumns(list) {
+    // Split the list into two equal parts
+    const half = Math.ceil(list.length / 2);
+    const leftColumn = list.slice(0, half);
+    const rightColumn = list.slice(half);
+
+    // Pad each string to ensure they align visually
+    const maxLength = Math.max(...leftColumn.map(item => item.length), ...rightColumn.map(item => item.length));
+    const paddedLeftColumn = leftColumn.map(item => item.padEnd(maxLength) + " ".repeat(3));
+    const paddedRightColumn = rightColumn.map(item => item.padEnd(maxLength));
+
+    // Join the strings with a separator to create two columns
+    const formattedText = paddedLeftColumn.map((item, index) => `${item} ${paddedRightColumn[index] || ''}`).join('\n');
+
+    // Insert the formatted text into the <pre> tag
+    document.querySelector('tr#mod_list td pre').textContent = formattedText;
+}
+
+var mod_list = `
+actiondemo
+AddKingdomItems
+AddMissionItems
+announcer
+archeotweaks
+Armoury
+AshProduce
+bagofholding
+betterdig
+betterfarm
+bindmod
+bountymod
+BountyOnBurn
+bulkmod
+bulkseparated
+chestclaim
+christmasmod
+combiner
+creatureagemod
+creaturemod
+cropmod
+DisableFogSpiders
+DiscordRelay
+DoubleBulkCapacity
+EnhancedChickenCoop
+EpicMissionHints
+FireBurnTime
+fixguards
+gmcommands
+GuardAssist
+harvesthelper
+hitchingpost
+hitchlimits
+hotsfixes
+httpserver
+hwportals
+inbreedwarning
+leadmore
+LocationCommand
+logs
+MarkAndRecall
+meditatemod
+milkreset
+minipets
+morecraftables
+MorePotables
+movemod
+movetocenter
+nobuildlimit
+NoHolyGround
+NoMailCost
+onetilemining
+phobiamod
+PickMoreSprouts
+sacrificemod
+salvemod
+scriptrunner
+serverfixes
+servermap
+serverpacks
+serverplayercounter
+ServerTimeCommand
+setheight
+SimpleConcrete
+SinduskLibrary
+Spellcraft
+spellmod
+StarterGear
+TabardMod
+taxidermy
+timerfix
+TreasureHunting
+`.trim().split(`\n`)
+
+formatTwoColumns(mod_list);
+
+
+
 
 var github_username = window.location.href.match(/\/\/(\w+)/)[1];
 
