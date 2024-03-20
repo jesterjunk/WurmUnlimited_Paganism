@@ -278,15 +278,36 @@
 
 <script>
 
-function formatColumns(list, target, columnCount = 2, paddingWidth = 3) {
+function formatColumns(list, target, columnCount = 2, paddingWidth = 3, showNumbers = false) {
     // Validate columnCount
-    if(columnCount < 1) columnCount = 1; // Ensure there's at least one column
+    if (columnCount < 1) columnCount = 1; // Ensure there's at least one column
     const rowsPerColumn = Math.ceil(list.length / columnCount);
 
     // Initialize columns array
     const columns = Array.from({ length: columnCount }, (_, columnIndex) =>
         list.slice(columnIndex * rowsPerColumn, (columnIndex + 1) * rowsPerColumn)
     );
+
+    // Calculate the padding for item numbers
+    let maxNumberLength = 0;
+    if (showNumbers) {
+        const totalItems = list.length;
+        maxNumberLength = totalItems.toString().length; // Length of the last item number
+    }
+
+    // Prefix items with numbers if showNumbers is true and pad them
+    if (showNumbers) {
+        let itemNumber = 1;
+        for (let i = 0; i < columns.length; i++) {
+            columns[i] = columns[i].map(item => {
+                // Right-align the item number
+                const itemNumberStr = itemNumber.toString().padStart(maxNumberLength, ' ');
+                const numberedItem = `${itemNumberStr}. ${item}`;
+                itemNumber++;
+                return numberedItem;
+            });
+        }
+    }
 
     // Find max length in each column to ensure alignment
     const maxLengths = columns.map(col =>
@@ -314,9 +335,10 @@ function formatColumns(list, target, columnCount = 2, paddingWidth = 3) {
     // Join the rows to form the final text
     const formattedText = formattedRows.join('\n');
 
-    // Insert the formatted text into the <pre> tag
+    // Insert the formatted text into the specified target
     target.textContent = formattedText;
 }
+
 
 var mod_list = `
 actiondemo
@@ -394,11 +416,12 @@ timerfix
 TreasureHunting
 `.trim().split(`\n`)
 
-var columnCount  = 3
-var paddingWidth = 11
 var target       = document.querySelector('tr#mod_list td pre')
+var columnCount  = 3
+var paddingWidth = 8
+var showNumbers  = true
 
-formatColumns(mod_list, target, columnCount, paddingWidth)
+formatColumns(mod_list, target, columnCount, paddingWidth, showNumbers)
 
 
 
