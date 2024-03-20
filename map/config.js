@@ -30,7 +30,7 @@ deeds.push(new Deed('Tac\'s New Town', 2491, 1176, 13, false, 2471, 1156, 2511, 
 deeds.push(new Deed('Nornheim', 1923, 1152, 9, false, 1913, 1142, 1933, 1162));
 deeds.push(new Deed('Skullcove', 2487, 890, 13, false, 2476, 879, 2498, 901));
 deeds.push(new Deed('Isle Of Hope', 2341, 1512, 60, false, 2321, 1492, 2361, 1532));
-deeds.push(new Deed('G N T', 2613, 761, 11, false, 2593, 741, 2653, 801));
+deeds.push(new Deed('G N T', 2613, 761, 1, false, 2593, 741, 2653, 801));
 deeds.push(new Deed('Facesitopolis', 2297, 1089, 12, false, 2277, 1069, 2317, 1109));
 deeds.push(new Deed('Hog Hole', 889, 195, 156, false, 864, 170, 914, 220));
 deeds.push(new Deed('Brighid\'s Fire', 3893, 1074, 68, false, 3843, 1024, 3943, 1124));
@@ -41,3 +41,5 @@ deeds.push(new Deed('Celestine', 2054, 1163, 18, false, 2044, 1153, 2064, 1173))
 deeds.push(new Deed('Nady', 2476, 1286, 13, false, 2461, 1266, 2486, 1306));
 deeds.push(new Deed('Public Mine', 2209, 1464, 74, false, 2194, 1449, 2224, 1479));
 deeds.push(new Deed('Rl\'yeh', 3655, 345, 251, false, 3630, 315, 3680, 365));
+deeds.push(new Deed('Oak Island', 1754, 3028, 113, false, 1749, 3023, 1759, 3033));
+deeds.push(new Deed('Pagan Hunting Reserve', 339, 1436, 112, true, 249, 1346, 439, 1486));
