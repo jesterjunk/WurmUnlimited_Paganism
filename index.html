@@ -5,6 +5,34 @@
     <link rel="icon" href="img/favicon.ico" type="image/x-icon"/>
     <title>Wurm Unlimited - Paganism</title>
     <style>
+
+    :root {
+        --color_scrollbar_thumb: hsl(50, 11%, 41%);
+        --color_scrollbar_track: hsl(72, 9%, 11%);
+    }
+
+    html {
+    /*                               This is for                                    */
+    /*                                 FireFox                                      */
+    /*                   thumb                         track                        */
+        scrollbar-color: var(--color_scrollbar_thumb)  var(--color_scrollbar_track);
+        scrollbar-width: thin;  /* options: auto (this is default), thin, none */
+        scrollbar-height: thin;  /* options: auto (this is default), thin, none */
+    }
+
+    body::-webkit-scrollbar {
+        width: .5em;
+        height: .5em;
+    }
+
+    body::-webkit-scrollbar-track {
+        background-color: var(--color_scrollbar_track);
+    }
+
+    body::-webkit-scrollbar-thumb {
+        background-color: var(--color_scrollbar_thumb);
+    }
+
     body {
         margin: 0;
         color: hsl(60, 30%, 96%);
@@ -141,7 +169,7 @@
             Owner
         </th>
         <td>
-            <strong><a href="https://forum.wurmonline.com/index.php?/topic/201106-paganism-10x10x-active-community-events/" title="https://forum.wurmonline.com/index.php?/topic/201106-paganism-10x10x-active-community-events/" target="_blank">OhPee</a></strong>
+            <strong><a href="https://forum.wurmonline.com/index.php?/profile/80703-ohpee/" title="https://forum.wurmonline.com/index.php?/profile/80703-ohpee/" target="_blank">OhPee</a></strong>
         </td>
     </tr>
     <tr>
