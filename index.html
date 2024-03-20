@@ -16,20 +16,20 @@
     /*                                 FireFox                                      */
     /*                   thumb                         track                        */
         scrollbar-color: var(--color_scrollbar_thumb)  var(--color_scrollbar_track);
-        scrollbar-width: thin !important;  /* options: auto (this is default), thin, none */
-        scrollbar-height: thin !important;  /* options: auto (this is default), thin, none */
+        scrollbar-width: thin;  /* options: auto (this is default), thin, none */
+        scrollbar-height: thin;  /* options: auto (this is default), thin, none */
     }
 
-    body::-webkit-scrollbar {
-        width: .5em !important;
-        height: .5em !important;
+    ::-webkit-scrollbar {
+        width: .5em;
+        height: .5em;
     }
 
-    body::-webkit-scrollbar-track {
+    ::-webkit-scrollbar-track {
         background-color: var(--color_scrollbar_track);
     }
 
-    body::-webkit-scrollbar-thumb {
+    ::-webkit-scrollbar-thumb {
         background-color: var(--color_scrollbar_thumb);
     }
 
