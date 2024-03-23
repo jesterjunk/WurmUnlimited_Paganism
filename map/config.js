@@ -42,5 +42,5 @@ deeds.push(new Deed('Public Mine', 2209, 1464, 74, false, 2194, 1449, 2224, 1479
 deeds.push(new Deed('Rl\'yeh', 3655, 345, 258, false, 3630, 315, 3680, 365));
 deeds.push(new Deed('Oak Island', 1754, 3028, 113, false, 1734, 3008, 1774, 3048));
 deeds.push(new Deed('Pagan Hunting Reserve', 339, 1436, 112, true, 249, 1346, 439, 1486));
-deeds.push(new Deed('Hog Hole', 2248, 1530, 130, false, 2223, 1505, 2273, 1555));
+deeds.push(new Deed('Hog Hole', 2248, 1530, 133, false, 2223, 1505, 2273, 1555));
 deeds.push(new Deed('Sanctuary', 889, 195, 156, false, 864, 170, 914, 220));
