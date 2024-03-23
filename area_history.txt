@@ -3,9 +3,10 @@
 │  Wurm Unlimited    Paganism    Area History                                  This is manually updated.  │
 │                                                                                                         │
 ├────────────────┬───────────────┬─────────────────┬─────────────┬─────────────────────────┬──────────────┤
-│          date  │         time  │  mayor          │  action     │  deed name              │     x     y  │
+│          date  │   time GMT-6  │  mayor          │  action     │  deed name              │     x     y  │
 ├────────────────┼───────────────┼─────────────────┼─────────────┼─────────────────────────┼──────────────┤
 │                │               │                 │             │                         │              │
+│  Mar 23, 2024  │   6:37:10 AM  │  Gihaggs        │  founded    │  Shanoa                 │              │
 │  Mar 21, 2024  │   2:23:56 PM  │  Cadence        │  founded    │  Sanctuary              │   889,  195  │
 │  Mar 21, 2024  │  12:49:33 AM  │  Warthog        │  founded    │  Hog Hole               │  2248, 1530  │
 │  Mar 21, 2024  │  12:35:34 AM  │  Warthog        │  disbanded  │  Hog Hole               │   889,  195  │
