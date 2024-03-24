@@ -21,7 +21,7 @@ function Deed(name, x, y, height, permanent, sx, sy, ex, ey) {
 }
 
 var deeds = [];
-deeds.push(new Deed('Infidelis', 2281, 1433, 13, true, 2256, 1408, 2306, 1458));
+deeds.push(new Deed('Infidelis', 2281, 1433, 13, true, 2252, 1408, 2306, 1465));
 deeds.push(new Deed('Blue Oasis', 2068, 985, 13, false, 2048, 965, 2088, 1005));
 deeds.push(new Deed('Savannah', 1859, 931, 13, false, 1839, 891, 1889, 951));
 deeds.push(new Deed('Murkwell', 2484, 1218, 12, false, 2459, 1213, 2514, 1238));
@@ -44,3 +44,5 @@ deeds.push(new Deed('Oak Island', 1754, 3028, 113, false, 1734, 3008, 1774, 3048
 deeds.push(new Deed('Pagan Hunting Reserve', 339, 1436, 112, true, 249, 1346, 439, 1486));
 deeds.push(new Deed('Hog Hole', 2248, 1530, 133, false, 2223, 1505, 2273, 1555));
 deeds.push(new Deed('Sanctuary', 889, 195, 156, false, 864, 170, 914, 220));
+deeds.push(new Deed('Shanoa', 1679, 1122, 225, false, 1664, 1107, 1694, 1137));
+deeds.push(new Deed('Isle Of Pretense', 3048, 2126, 79, false, 3023, 2101, 3073, 2151));
