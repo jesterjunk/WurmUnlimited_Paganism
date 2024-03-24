@@ -6,6 +6,7 @@
 │          date  │   time GMT-6  │  mayor          │  action     │  deed name              │     x     y  │
 ├────────────────┼───────────────┼─────────────────┼─────────────┼─────────────────────────┼──────────────┤
 │                │               │                 │             │                         │              │
+│  Mar 24, 2024  │   6:16:40 AM  │  Moontsu        │  founded    │  Tassie                 │              │
 │  Mar 23, 2024  │   6:12:36 PM  │  Kaboing        │  founded    │  Great Mootopia         │              │
 │  Mar 23, 2024  │   5:21:12 PM  │  Kess           │  founded    │  Isle Of Pretense       │  3048, 2126  │
 │  Mar 23, 2024  │   6:37:10 AM  │  Gihaggs        │  founded    │  Shanoa                 │  1679, 1122  │
