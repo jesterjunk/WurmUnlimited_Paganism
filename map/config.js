@@ -35,8 +35,8 @@ deeds.push(new Deed('Facesitopolis', 2297, 1089, 12, false, 2277, 1069, 2317, 11
 deeds.push(new Deed('Brighid\'s Fire', 3893, 1074, 68, false, 3843, 1024, 3943, 1124));
 deeds.push(new Deed('Donkland', 3698, 1152, 765, false, 3678, 1132, 3718, 1172));
 deeds.push(new Deed('Magnuss Home', 2239, 1603, 205, false, 2234, 1593, 2254, 1623));
-deeds.push(new Deed('Black Hand Sanctuary', 1510, 1586, 34, false, 1490, 1566, 1530, 1606));
-deeds.push(new Deed('Celestine', 2054, 1163, 18, false, 2044, 1153, 2064, 1173));
+deeds.push(new Deed('Black Hand Sanctuary', 1510, 1586, 50, false, 1490, 1566, 1530, 1606));
+deeds.push(new Deed('Celestine', 2054, 1163, 18, false, 2044, 1153, 2070, 1179));
 deeds.push(new Deed('Nady', 2476, 1286, 13, false, 2461, 1266, 2486, 1306));
 deeds.push(new Deed('Public Mine', 2209, 1464, 74, false, 2194, 1449, 2224, 1479));
 deeds.push(new Deed('Rl\'yeh', 3655, 345, 258, false, 3630, 315, 3680, 365));
@@ -46,3 +46,5 @@ deeds.push(new Deed('Hog Hole', 2248, 1530, 133, false, 2223, 1505, 2273, 1555))
 deeds.push(new Deed('Sanctuary', 889, 195, 156, false, 864, 170, 914, 220));
 deeds.push(new Deed('Shanoa', 1679, 1122, 225, false, 1664, 1107, 1694, 1137));
 deeds.push(new Deed('Isle Of Pretense', 3048, 2126, 79, false, 3023, 2101, 3073, 2151));
+deeds.push(new Deed('Great Mootopia', 2187, 1338, 10, false, 2171, 1328, 2217, 1348));
+deeds.push(new Deed('Tassie', 1916, 1076, 14, false, 1896, 1056, 1936, 1096));
