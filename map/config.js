@@ -48,3 +48,4 @@ deeds.push(new Deed('Shanoa', 1679, 1122, 225, false, 1664, 1107, 1694, 1137));
 deeds.push(new Deed('Isle Of Pretense', 3048, 2126, 79, false, 3023, 2101, 3073, 2151));
 deeds.push(new Deed('Great Mootopia', 2187, 1338, 10, false, 2171, 1328, 2217, 1348));
 deeds.push(new Deed('Tassie', 1916, 1076, 14, false, 1896, 1056, 1936, 1096));
+deeds.push(new Deed('This Place', 2486, 1972, 12, false, 2466, 1952, 2506, 1992));
