@@ -6,6 +6,7 @@
 │          date  │   time GMT-6  │  mayor          │  action     │  deed name              │     x     y  │
 ├────────────────┼───────────────┼─────────────────┼─────────────┼─────────────────────────┼──────────────┤
 │                │               │                 │             │                         │              │
+│  Mar 24, 2024  │   6:57:34 PM  │  Snax           │  founded    │  This Place             │  2486, 1972  │
 │  Mar 24, 2024  │   6:16:40 AM  │  Moontsu        │  founded    │  Tassie                 │  1916, 1076  │
 │  Mar 23, 2024  │   6:12:36 PM  │  Kaboing        │  founded    │  Great Mootopia         │  2187, 1338  │
 │  Mar 23, 2024  │   5:21:12 PM  │  Kess           │  founded    │  Isle Of Pretense       │  3048, 2126  │
