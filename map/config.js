@@ -44,7 +44,7 @@ deeds.push(new Deed('Oak Island', 1754, 3028, 113, false, 1734, 3008, 1774, 3048
 deeds.push(new Deed('Pagan Hunting Reserve', 339, 1436, 112, true, 249, 1346, 439, 1486));
 deeds.push(new Deed('Hog Hole', 2248, 1530, 133, false, 2223, 1505, 2273, 1555));
 deeds.push(new Deed('Sanctuary', 889, 195, 156, false, 864, 170, 914, 220));
-deeds.push(new Deed('Shanoa', 1679, 1122, 225, false, 1664, 1102, 1694, 1147));
+deeds.push(new Deed('Shanoa', 1679, 1122, 225, false, 1664, 1102, 1704, 1147));
 deeds.push(new Deed('Isle Of Pretense', 3048, 2126, 79, false, 3023, 2101, 3083, 2151));
 deeds.push(new Deed('Great Mootopia', 2187, 1338, 10, false, 2171, 1328, 2217, 1348));
 deeds.push(new Deed('This Place', 2486, 1972, 38, false, 2456, 1957, 2516, 1987));
