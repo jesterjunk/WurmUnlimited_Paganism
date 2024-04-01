@@ -1,61 +1,72 @@
-╭─────────────────────────────────────────────────────────────────────────────────────────────────────────╮
-│                                                                                                         │
-│  Wurm Unlimited    Paganism    Area History                                  This is manually updated.  │
-│                                                                                                         │
-├────────────────┬───────────────┬─────────────────┬─────────────┬─────────────────────────┬──────────────┤
-│          date  │   time GMT-6  │  mayor          │  action     │  deed name              │     x     y  │
-├────────────────┼───────────────┼─────────────────┼─────────────┼─────────────────────────┼──────────────┤
-│                │               │                 │             │                         │              │
-│  Mar 28, 2024  │   3:04:49 AM  │  Shiva          │  disbanded  │  Shivagrad              │  3750, 1983  │
-│  Mar 26, 2024  │  11:31:29 PM  │  Shiva          │  founded    │  Shivagrad              │  3750, 1983  │
-│  Mar 26, 2024  │   3:01:17 AM  │  Greenbriar     │  founded    │  Grayshell              │  2590, 1029  │
-│  Mar 25, 2024  │  11:22:53 PM  │  Moontsu        │  founded    │  Tassie Two             │  2045, 1522  │
-│  Mar 25, 2024  │  11:03:07 PM  │  Moontsu        │  disbanded  │  Tassie                 │  1916, 1076  │
-│  Mar 24, 2024  │   6:57:34 PM  │  Snax           │  founded    │  This Place             │  2486, 1972  │
-│  Mar 24, 2024  │   6:16:40 AM  │  Moontsu        │  founded    │  Tassie                 │  1916, 1076  │
-│  Mar 23, 2024  │   6:12:36 PM  │  Kaboing        │  founded    │  Great Mootopia         │  2187, 1338  │
-│  Mar 23, 2024  │   5:21:12 PM  │  Kess           │  founded    │  Isle Of Pretense       │  3048, 2126  │
-│  Mar 23, 2024  │   6:37:10 AM  │  Gihaggs        │  founded    │  Shanoa                 │  1679, 1122  │
-│  Mar 21, 2024  │   2:23:56 PM  │  Cadence        │  founded    │  Sanctuary              │   889,  195  │
-│  Mar 21, 2024  │  12:49:33 AM  │  Warthog        │  founded    │  Hog Hole               │  2248, 1530  │
-│  Mar 21, 2024  │  12:35:34 AM  │  Warthog        │  disbanded  │  Hog Hole               │   889,  195  │
-│  Mar 20, 2024  │  12:54:41 AM  │  Gamewarden     │  founded    │  Pagan Hunting Reserve  │   339, 1436  │
-│  Mar 19, 2024  │   9:48:24 PM  │  Mrjones        │  founded    │  Oak Island             │  1754, 3028  │
-│  Mar 17, 2024  │  11:42:57 PM  │  Cthulhuhoop    │  founded    │  Rl'yeh                 │  3655,  345  │
-│  Mar 17, 2024  │   7:21:25 PM  │  Publicmine     │  founded    │  Public Mine            │  2209, 1464  │
-│  Mar 17, 2024  │   5:07:17 PM  │  Odell          │  founded    │  Nady                   │  2476, 1286  │
-│  Mar 16, 2024  │   2:08:32 PM  │  Amberlight     │  founded    │  Celestine              │  2054, 1163  │
-│  Mar 16, 2024  │  12:46:01 PM  │  Alterego       │  founded    │  Black Hand Sanctuary   │  1510, 1586  │
-│  Mar 15, 2024  │   8:55:20 AM  │  Alayena        │  disbanded  │  New Hope               │  2359, 1773  │
-│  Mar 15, 2024  │   6:50:06 AM  │  Magnuss        │  founded    │  Magnuss Home           │  2239, 1603  │
-│  Mar 14, 2024  │   2:04:21 PM  │  Donk           │  founded    │  Donkland               │  3698, 1152  │
-│  Mar 14, 2024  │   2:43:43 AM  │  Brighid        │  founded    │  Brighid's Fire         │  3893, 1074  │
-│  Mar 14, 2024  │   2:33:34 AM  │  Warthog        │  founded    │  Hog Hole               │   889,  195  │
-│  Mar 14, 2024  │  12:06:21 AM  │  Jadetheebratt  │  founded    │  Facesitopolis          │  2297, 1089  │
-│  Mar 13, 2024  │  11:41:22 PM  │  Charibdis      │  founded    │  G N T                  │  2613,  761  │
-│  Mar 13, 2024  │   4:55:12 PM  │  Solmark        │  founded    │  Isle Of Hope           │  2341, 1512  │
-│  Mar 13, 2024  │  11:56:55 AM  │  Robskull       │  founded    │  Skullcove              │  2487,  890  │
-│  Mar 13, 2024  │  10:17:55 AM  │  Alayena        │  founded    │  New Hope               │  2359, 1773  │
-│  Mar 13, 2024  │   5:19:09 AM  │  Eldros         │  founded    │  Nornheim               │  1923, 1152  │
-│  Mar 12, 2024  │   7:27:54 PM  │  Tacgnol        │  founded    │  Tac's New Town         │  2491, 1176  │
-│  Mar 12, 2024  │   7:18:50 PM  │  Tacgnol        │  disbanded  │  Tac Town               │              │
-│  Mar 12, 2024  │   4:06:40 PM  │  Jesterjunk     │  founded    │  Squadoosh              │  2036, 1398  │
-│  Mar 12, 2024  │   2:06:37 PM  │  Terst          │  founded    │  Murkwell               │  2484, 1218  │
-│  Mar 11, 2024  │  10:00:39 PM  │  Cooter         │  founded    │  Savannah               │  1859,  931  │
-│  Mar 11, 2024  │   9:17:07 PM  │  Tacgnol        │  founded    │  Tac Town               │              │
-│  Mar 11, 2024  │   8:48:48 PM  │  Bluecrust      │  founded    │  Blue Oasis             │  2068,  985  │
-│  Mar 10, 2024  │  10:54:49 PM  │  Cootergm       │  founded    │  Infidelis              │  2281, 1433  │
-│  Mar 10, 2024  │  10:53:34 PM  │  Cootergm       │  disbanded  │  Infidelis              │              │
-│  Mar 10, 2024  │  10:49:15 PM  │  Cootergm       │  disbanded  │  Blue Oasis             │              │
-│  Mar 10, 2024  │  10:41:27 PM  │  Cootergm       │  founded    │  Infidelis              │              │
-│  Mar 10, 2024  │  10:39:27 PM  │  Cootergm       │  disbanded  │  Infidelis              │              │
-│  Mar 10, 2024  │  10:00:54 PM  │  Blueskullz     │  founded    │  Blue Oasis             │              │
-│  Mar 10, 2024  │   9:12:01 PM  │  Cootergm       │  founded    │  Infidelis              │              │
-│  Mar 10, 2024  │   9:09:37 PM  │  Cootergm       │  disbanded  │  Infidelis              │              │
-│  Mar 10, 2024  │   8:44:51 PM  │  Cootergm       │  founded    │  Infidelis              │              │
-│  Mar 10, 2024  │   8:41:40 PM  │  Cootergm       │  disbanded  │  Infidelis              │              │
-│  Mar 10, 2024  │   7:06:15 PM  │  Cootergm       │  founded    │  Infidelis              │              │
-│  Mar 10, 2024  │   6:58:17 PM  │  Cootergm       │  disbanded  │  Infidelis              │              │
-│  Mar 10, 2024  │   6:35:31 PM  │  Cootergm       │  founded    │  Infidelis              │              │
-│                │               │                 │             │                         │              │
-╰────────────────┴───────────────┴─────────────────┴─────────────┴─────────────────────────┴──────────────╯
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│                                                                                                                        │
+│  Wurm Unlimited    Paganism    Area History                                                 This is manually updated.  │
+│                                                                                                                        │
+├────────────────┬───────────────┬─────────────────┬─────────────┬────────────────────────────────────────┬──────────────┤
+│          date  │   time GMT-6  │  mayor          │  action     │  deed name                             │     x     y  │
+├────────────────┼───────────────┼─────────────────┼─────────────┼────────────────────────────────────────┼──────────────┤
+│                │               │                 │             │                                        │              │
+│  Mar 31, 2024  │   4:19:13 AM  │  Shiva          │  founded    │  Shivagrad                             │              │
+│  Mar 30, 2024  │  10:32:26 PM  │  Bluecrust      │  slayed     │  The venerable green dragon            │              │
+│  Mar 30, 2024  │  10:32:26 PM  │  Cooter         │  slayed     │  The venerable green dragon            │              │
+│  Mar 30, 2024  │  10:32:26 PM  │  Milker         │  slayed     │  The venerable green dragon            │              │
+│  Mar 30, 2024  │  10:32:26 PM  │  Solmark        │  slayed     │  The venerable green dragon            │              │
+│  Mar 30, 2024  │  10:32:26 PM  │  Kaboing        │  slayed     │  The venerable green dragon            │              │
+│  Mar 30, 2024  │  10:22:51 PM  │  Bluecrust      │  slayed     │  The venerable green dragon hatchling  │              │
+│  Mar 30, 2024  │  10:22:51 PM  │  Cooter         │  slayed     │  The venerable green dragon hatchling  │              │
+│  Mar 30, 2024  │  10:22:51 PM  │  Milker         │  slayed     │  The venerable green dragon hatchling  │              │
+│  Mar 30, 2024  │  10:22:51 PM  │  Solmark        │  slayed     │  The venerable green dragon hatchling  │              │
+│  Mar 30, 2024  │  10:22:51 PM  │  Kaboing        │  slayed     │  The venerable green dragon hatchling  │              │
+│  Mar 28, 2024  │   3:04:49 AM  │  Shiva          │  disbanded  │  Shivagrad                             │  3750, 1983  │
+│  Mar 26, 2024  │  11:31:29 PM  │  Shiva          │  founded    │  Shivagrad                             │  3750, 1983  │
+│  Mar 26, 2024  │   3:01:17 AM  │  Greenbriar     │  founded    │  Grayshell                             │  2590, 1029  │
+│  Mar 25, 2024  │  11:22:53 PM  │  Moontsu        │  founded    │  Tassie Two                            │  2045, 1522  │
+│  Mar 25, 2024  │  11:03:07 PM  │  Moontsu        │  disbanded  │  Tassie                                │  1916, 1076  │
+│  Mar 24, 2024  │   6:57:34 PM  │  Snax           │  founded    │  This Place                            │  2486, 1972  │
+│  Mar 24, 2024  │   6:16:40 AM  │  Moontsu        │  founded    │  Tassie                                │  1916, 1076  │
+│  Mar 23, 2024  │   6:12:36 PM  │  Kaboing        │  founded    │  Great Mootopia                        │  2187, 1338  │
+│  Mar 23, 2024  │   5:21:12 PM  │  Kess           │  founded    │  Isle Of Pretense                      │  3048, 2126  │
+│  Mar 23, 2024  │   6:37:10 AM  │  Gihaggs        │  founded    │  Shanoa                                │  1679, 1122  │
+│  Mar 21, 2024  │   2:23:56 PM  │  Cadence        │  founded    │  Sanctuary                             │   889,  195  │
+│  Mar 21, 2024  │  12:49:33 AM  │  Warthog        │  founded    │  Hog Hole                              │  2248, 1530  │
+│  Mar 21, 2024  │  12:35:34 AM  │  Warthog        │  disbanded  │  Hog Hole                              │   889,  195  │
+│  Mar 20, 2024  │  12:54:41 AM  │  Gamewarden     │  founded    │  Pagan Hunting Reserve                 │   339, 1436  │
+│  Mar 19, 2024  │   9:48:24 PM  │  Mrjones        │  founded    │  Oak Island                            │  1754, 3028  │
+│  Mar 17, 2024  │  11:42:57 PM  │  Cthulhuhoop    │  founded    │  Rl'yeh                                │  3655,  345  │
+│  Mar 17, 2024  │   7:21:25 PM  │  Publicmine     │  founded    │  Public Mine                           │  2209, 1464  │
+│  Mar 17, 2024  │   5:07:17 PM  │  Odell          │  founded    │  Nady                                  │  2476, 1286  │
+│  Mar 16, 2024  │   2:08:32 PM  │  Amberlight     │  founded    │  Celestine                             │  2054, 1163  │
+│  Mar 16, 2024  │  12:46:01 PM  │  Alterego       │  founded    │  Black Hand Sanctuary                  │  1510, 1586  │
+│  Mar 15, 2024  │   8:55:20 AM  │  Alayena        │  disbanded  │  New Hope                              │  2359, 1773  │
+│  Mar 15, 2024  │   6:50:06 AM  │  Magnuss        │  founded    │  Magnuss Home                          │  2239, 1603  │
+│  Mar 14, 2024  │   2:04:21 PM  │  Donk           │  founded    │  Donkland                              │  3698, 1152  │
+│  Mar 14, 2024  │   2:43:43 AM  │  Brighid        │  founded    │  Brighid's Fire                        │  3893, 1074  │
+│  Mar 14, 2024  │   2:33:34 AM  │  Warthog        │  founded    │  Hog Hole                              │   889,  195  │
+│  Mar 14, 2024  │  12:06:21 AM  │  Jadetheebratt  │  founded    │  Facesitopolis                         │  2297, 1089  │
+│  Mar 13, 2024  │  11:41:22 PM  │  Charibdis      │  founded    │  G N T                                 │  2613,  761  │
+│  Mar 13, 2024  │   4:55:12 PM  │  Solmark        │  founded    │  Isle Of Hope                          │  2341, 1512  │
+│  Mar 13, 2024  │  11:56:55 AM  │  Robskull       │  founded    │  Skullcove                             │  2487,  890  │
+│  Mar 13, 2024  │  10:17:55 AM  │  Alayena        │  founded    │  New Hope                              │  2359, 1773  │
+│  Mar 13, 2024  │   5:19:09 AM  │  Eldros         │  founded    │  Nornheim                              │  1923, 1152  │
+│  Mar 12, 2024  │   7:27:54 PM  │  Tacgnol        │  founded    │  Tac's New Town                        │  2491, 1176  │
+│  Mar 12, 2024  │   7:18:50 PM  │  Tacgnol        │  disbanded  │  Tac Town                              │              │
+│  Mar 12, 2024  │   4:06:40 PM  │  Jesterjunk     │  founded    │  Squadoosh                             │  2036, 1398  │
+│  Mar 12, 2024  │   2:06:37 PM  │  Terst          │  founded    │  Murkwell                              │  2484, 1218  │
+│  Mar 11, 2024  │  10:00:39 PM  │  Cooter         │  founded    │  Savannah                              │  1859,  931  │
+│  Mar 11, 2024  │   9:17:07 PM  │  Tacgnol        │  founded    │  Tac Town                              │              │
+│  Mar 11, 2024  │   8:48:48 PM  │  Bluecrust      │  founded    │  Blue Oasis                            │  2068,  985  │
+│  Mar 10, 2024  │  10:54:49 PM  │  Cootergm       │  founded    │  Infidelis                             │  2281, 1433  │
+│  Mar 10, 2024  │  10:53:34 PM  │  Cootergm       │  disbanded  │  Infidelis                             │              │
+│  Mar 10, 2024  │  10:49:15 PM  │  Cootergm       │  disbanded  │  Blue Oasis                            │              │
+│  Mar 10, 2024  │  10:41:27 PM  │  Cootergm       │  founded    │  Infidelis                             │              │
+│  Mar 10, 2024  │  10:39:27 PM  │  Cootergm       │  disbanded  │  Infidelis                             │              │
+│  Mar 10, 2024  │  10:00:54 PM  │  Blueskullz     │  founded    │  Blue Oasis                            │              │
+│  Mar 10, 2024  │   9:12:01 PM  │  Cootergm       │  founded    │  Infidelis                             │              │
+│  Mar 10, 2024  │   9:09:37 PM  │  Cootergm       │  disbanded  │  Infidelis                             │              │
+│  Mar 10, 2024  │   8:44:51 PM  │  Cootergm       │  founded    │  Infidelis                             │              │
+│  Mar 10, 2024  │   8:41:40 PM  │  Cootergm       │  disbanded  │  Infidelis                             │              │
+│  Mar 10, 2024  │   7:06:15 PM  │  Cootergm       │  founded    │  Infidelis                             │              │
+│  Mar 10, 2024  │   6:58:17 PM  │  Cootergm       │  disbanded  │  Infidelis                             │              │
+│  Mar 10, 2024  │   6:35:31 PM  │  Cootergm       │  founded    │  Infidelis                             │              │
+│                │               │                 │             │                                        │              │
+╰────────────────┴───────────────┴─────────────────┴─────────────┴────────────────────────────────────────┴──────────────╯
