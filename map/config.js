@@ -24,7 +24,7 @@ var deeds = [];
 deeds.push(new Deed('Infidelis', 2281, 1433, 13, true, 2252, 1408, 2306, 1465));
 deeds.push(new Deed('Blue Oasis', 2068, 985, 13, false, 2048, 965, 2088, 1005));
 deeds.push(new Deed('Savannah', 1859, 931, 13, false, 1839, 891, 1889, 951));
-deeds.push(new Deed('Murkwell', 2484, 1218, 12, false, 2459, 1213, 2514, 1238));
+deeds.push(new Deed('Murkwell', 2484, 1218, 12, false, 2459, 1208, 2514, 1238));
 deeds.push(new Deed('Squadoosh', 2036, 1398, 444, false, 2011, 1373, 2061, 1431));
 deeds.push(new Deed('Tac\'s New Town', 2491, 1176, 13, false, 2471, 1156, 2511, 1196));
 deeds.push(new Deed('Nornheim', 1923, 1152, 9, false, 1913, 1142, 1933, 1162));
@@ -51,3 +51,4 @@ deeds.push(new Deed('This Place', 2486, 1972, 38, false, 2456, 1957, 2516, 1987)
 deeds.push(new Deed('Tassie Two', 2045, 1522, 646, false, 2030, 1507, 2060, 1537));
 deeds.push(new Deed('Grayshell', 2590, 1029, 184, false, 2585, 1024, 2595, 1034));
 deeds.push(new Deed('Shivagrad', 3530, 1893, 108, false, 3510, 1873, 3550, 1913));
+deeds.push(new Deed('Starter Home', 2218, 1410, 12, false, 2213, 1405, 2223, 1415));
