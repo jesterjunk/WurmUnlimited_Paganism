@@ -6,6 +6,8 @@
 │          date  │   time GMT-6  │  mayor             │  action     │  deed name                             │     x     y  │
 ├────────────────┼───────────────┼────────────────────┼─────────────┼────────────────────────────────────────┼──────────────┤
 │                │               │                    │             │                                        │              │
+│  Apr 5, 2024   │  12:57:22 AM  │  Shiva             │  disbanded  │  Shivagrad                             │  3530, 1893  │
+│  Apr 4, 2024   │  10:49:53 PM  │  Sweet             │  founded    │  Sweet Spot                            │              │
 │  Apr 2, 2024   │   4:19:26 PM  │  Danielanglesmith  │  founded    │  Starter Home                          │  2218, 1410  │
 │  Mar 31, 2024  │   4:19:13 AM  │  Shiva             │  founded    │  Shivagrad                             │  3530, 1893  │
 │  Mar 30, 2024  │  10:32:26 PM  │  Bluecrust         │  slayed     │  The venerable green dragon            │              │
