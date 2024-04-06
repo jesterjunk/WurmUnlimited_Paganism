@@ -49,6 +49,6 @@ deeds.push(new Deed('Isle Of Pretense', 3048, 2126, 79, false, 3023, 2101, 3083,
 deeds.push(new Deed('Great Mootopia', 2187, 1338, 10, false, 2166, 1317, 2217, 1353));
 deeds.push(new Deed('This Place', 2486, 1972, 38, false, 2456, 1957, 2516, 1987));
 deeds.push(new Deed('Tassie Two', 2045, 1522, 646, false, 2030, 1507, 2060, 1537));
-deeds.push(new Deed('Grayshell', 2590, 1029, 184, false, 2585, 1024, 2595, 1034));
-deeds.push(new Deed('Shivagrad', 3530, 1893, 108, false, 3510, 1873, 3550, 1913));
+deeds.push(new Deed('Grayshell', 2590, 1029, 184, false, 2585, 1019, 2595, 1034));
 deeds.push(new Deed('Starter Home', 2218, 1410, 12, false, 2213, 1405, 2223, 1415));
+deeds.push(new Deed('Sweet Spot', 2804, 508, 14, false, 2754, 458, 2854, 558));
