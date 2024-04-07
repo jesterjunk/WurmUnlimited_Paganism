@@ -6,6 +6,7 @@
 │          date  │   time GMT-6  │  mayor             │  action     │  deed name                             │     x     y  │
 ├────────────────┼───────────────┼────────────────────┼─────────────┼────────────────────────────────────────┼──────────────┤
 │                │               │                    │             │                                        │              │
+│  Apr 7, 2024   │   2:47:36 PM  │  Sundi             │  founded    │  Hunting Hideout                       │              │
 │  Apr 7, 2024   │   3:46:48 AM  │  Shiva             │  founded    │  Shivagrad                             │              │
 │  Apr 6, 2024   │   7:14:55 PM  │  Danielanglesmith  │  slayed     │  The venerable red dragon hatchling    │              │
 │  Apr 6, 2024   │   7:14:55 PM  │  Bluecrust         │  slayed     │  The venerable red dragon hatchling    │              │
