@@ -6,9 +6,9 @@
 │          date  │   time GMT-6  │  mayor             │  action     │  deed name / unique killed             │     x     y  │
 ├────────────────┼───────────────┼────────────────────┼─────────────┼────────────────────────────────────────┼──────────────┤
 │                │               │                    │             │                                        │              │
-│  Apr 9, 2024   │   1:20:04 AM  │  Sylf              │  founded    │  Fortuna                               │              │
-│  Apr 7, 2024   │   2:47:36 PM  │  Sundi             │  founded    │  Hunting Hideout                       │              │
-│  Apr 7, 2024   │   3:46:48 AM  │  Shiva             │  founded    │  Shivagrad                             │              │
+│  Apr 9, 2024   │   1:20:04 AM  │  Sylf              │  founded    │  Fortuna                               │  1630, 1075  │
+│  Apr 7, 2024   │   2:47:36 PM  │  Sundi             │  founded    │  Hunting Hideout                       │   213, 1437  │
+│  Apr 7, 2024   │   3:46:48 AM  │  Shiva             │  founded    │  Shivagrad                             │  2949, 3281  │
 │  Apr 6, 2024   │   7:14:55 PM  │  Danielanglesmith  │  slayed     │  The venerable red dragon hatchling    │              │
 │  Apr 6, 2024   │   7:14:55 PM  │  Bluecrust         │  slayed     │  The venerable red dragon hatchling    │              │
 │  Apr 6, 2024   │   7:14:55 PM  │  Cooter            │  slayed     │  The venerable red dragon hatchling    │              │
