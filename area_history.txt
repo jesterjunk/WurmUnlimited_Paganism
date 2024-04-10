@@ -3,7 +3,7 @@
 │  Wurm Unlimited    Paganism    Area History                                                    This is manually updated.  │
 │                                                                                                                           │
 ├────────────────┬───────────────┬────────────────────┬─────────────┬────────────────────────────────────────┬──────────────┤
-│          date  │   time GMT-6  │  mayor             │  action     │  deed name / beast killed              │     x     y  │
+│          date  │   time GMT-6  │  mayor             │  action     │  deed name / unique killed             │     x     y  │
 ├────────────────┼───────────────┼────────────────────┼─────────────┼────────────────────────────────────────┼──────────────┤
 │                │               │                    │             │                                        │              │
 │  Apr 9, 2024   │   1:20:04 AM  │  Sylf              │  founded    │  Fortuna                               │              │
