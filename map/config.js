@@ -44,11 +44,14 @@ deeds.push(new Deed('Oak Island', 1754, 3028, 113, false, 1734, 3008, 1774, 3048
 deeds.push(new Deed('Pagan Hunting Reserve', 339, 1436, 112, true, 249, 1346, 439, 1486));
 deeds.push(new Deed('Hog Hole', 2248, 1530, 133, false, 2223, 1505, 2273, 1555));
 deeds.push(new Deed('Sanctuary', 889, 195, 156, false, 864, 170, 914, 220));
-deeds.push(new Deed('Shanoa', 1679, 1122, 225, false, 1664, 1102, 1704, 1147));
+deeds.push(new Deed('Shanoa', 1679, 1122, 225, false, 1659, 1097, 1709, 1147));
 deeds.push(new Deed('Isle Of Pretense', 3048, 2126, 79, false, 3023, 2101, 3083, 2151));
 deeds.push(new Deed('Great Mootopia', 2187, 1338, 10, false, 2166, 1317, 2217, 1353));
 deeds.push(new Deed('This Place', 2486, 1972, 38, false, 2456, 1957, 2516, 1987));
 deeds.push(new Deed('Tassie Two', 2045, 1522, 646, false, 2030, 1507, 2060, 1537));
 deeds.push(new Deed('Grayshell', 2590, 1029, 184, false, 2585, 1019, 2595, 1034));
-deeds.push(new Deed('Starter Home', 2218, 1410, 12, false, 2213, 1405, 2223, 1415));
-deeds.push(new Deed('Sweet Spot', 2804, 508, 14, false, 2754, 458, 2854, 558));
+deeds.push(new Deed('Starter Home', 2218, 1410, 12, false, 2207, 1399, 2223, 1421));
+deeds.push(new Deed('Sweet Spot', 2804, 508, 12, false, 2754, 458, 2854, 558));
+deeds.push(new Deed('Shivagrad', 2949, 3281, 93, false, 2924, 3256, 2974, 3306));
+deeds.push(new Deed('Hunting Hideout', 213, 1437, 31, false, 208, 1432, 218, 1442));
+deeds.push(new Deed('Fortuna', 1630, 1075, 146, false, 1625, 1070, 1635, 1080));
